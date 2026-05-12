@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abar-hashimukh/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Abar Hashimukh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abar-hashimukh/) |
+| **Get License** | [Official Music Licensing for Abar Hashimukh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abar-hashimukh/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধারের এই মায়ায় তুমি কাছে এসো না
+> উষ্ণ এই শরীরে আজ আমাকে জড়াও না
+> অচেনা এই আগুনে আমি পুড়তে যে চাই
+> তোমার ঐ চোখের মাঝে নিজেকে হারাই
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9888cd8afac52ea89d44deff14bcfb89d99aa57f9d24a81a247a18d847f1f3f6` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

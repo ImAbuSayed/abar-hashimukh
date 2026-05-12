@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abar Hashimukh
+
+This log tracks the cryptographic history and versioning for the song **Abar Hashimukh** (abar-hashimukh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T05:54:52.969095 | `v1` | `9888cd8afac52ea89d44deff14bcfb89d99aa57f9d24a81a247a18d847f1f3f6` | `b272263fd2bd94c9e53d2e1ecaa02f2e341497c5e6ef0448d693b3c6c98eef96` | `2026-05-13_abar-hashimukh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
